@@ -13,4 +13,5 @@ Compile Instructions:
  4. Compile using cx_Freeze with the following command: *`python setup.py build`*
 
 ### Alternatively:
-You can download the *Documentation Tool.zip* for the compiled application
+You can download the *Documentation Tool.zip* for the compiled application.
+No installation required, just unzip to the shared folder.
