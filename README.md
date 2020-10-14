@@ -1,6 +1,6 @@
 # Documentation Tool
 
-uncompiled.zip contents
+uncompiled_drt.zip contents
  * \assets
  * drt.py
  * setup.py
