@@ -11,6 +11,7 @@ Compile Instructions:
  2. Open a command prompt/powershell
  3. Navigate to the extracted folder
  4. Compile using cx_Freeze with the following command: *`python setup.py build`*
+ > recommended Python 3.6 and above
 
 ### Alternatively:
 You can download the *Documentation Tool.zip* for the compiled application.
